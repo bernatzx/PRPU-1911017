@@ -1,3 +1,8 @@
+PERBANDINGAN METODE K-NEAREST NEIGHBOR DAN RANDOM
+FOREST UNTUK MEMPREDIKSI KELAYAKAN PEMBERIAN KREDIT
+(STUDI KASUS: PT BUSSAN AUTO FINANCE CABANG KOTA
+TERNATE)
+
 Panduan Singkat
 
 Catatan : bagian “1. Pertama” tidak perlu dilakukan jika sudah pernah dilakukan atau ada folder “venv”
